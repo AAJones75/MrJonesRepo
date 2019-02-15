@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd92df3-d3b6-43ec-80e1-6d71e0702835" name="Default" comment="" />
+    <list default="true" id="8dd92df3-d3b6-43ec-80e1-6d71e0702835" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mrjonesfirstscript.py" afterPath="$PROJECT_DIR$/mrjonesfirstscript.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
       <file leaf-file-name="mrjonesfirstscript.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mrjonesfirstscript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -234,8 +236,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mrjonesfirstscript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
